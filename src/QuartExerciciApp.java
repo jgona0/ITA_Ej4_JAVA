@@ -1,8 +1,14 @@
+/*
+ * Quart exercici IT ACADEMY
+ * Xavi Gonzalez JAVA-1
+ */
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class EJ4 {
+public class QuartExerciciApp {
 
 	public static void main(String[] args) {
 
